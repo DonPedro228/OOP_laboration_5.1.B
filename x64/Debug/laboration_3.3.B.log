@@ -1,0 +1,16 @@
+﻿  Triad.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Triad.cpp(88,18): warning C4101: 'year': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Triad.cpp(88,11): warning C4101: 'month': unreferenced local variable
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Triad.cpp(88,6): warning C4101: 'day': unreferenced local variable
+  Triad.h
+  Vector3D.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  laboration_3.3.B.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\Vector3D.h(10,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\laboration_3.3.B.cpp(53,9): warning C4161: #pragma pack(pop...): more pops than pushes
+  Generating Code...
+  laboration_3.3.B.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\OOP\laboration_3.3.B\x64\Debug\laboration_3.3.B.exe
